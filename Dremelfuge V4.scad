@@ -1,7 +1,9 @@
 // ===== DremelFuge =====
 // Cathal Garvey (cathalgarvey@gmail.com
-// Creative Commons NonCommercial Sharealike Attribution license
-// http://creativecommons.org/licenses/by-nc-sa/3.0/
+// Creative Commons Sharealike Attribution license
+// http://creativecommons.org/licenses/by-sa/3.0/
+// Also re-licensed under the GNU AGPL 3.0 or later:
+// https://www.gnu.org/licenses/agpl.txt
 
 // ===== Parameters =====
 // Includes:
