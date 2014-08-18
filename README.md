@@ -4,7 +4,7 @@ by Cathal Garvey, (C) 2009, colicensed under the GNU GPL v3 or later and the Cre
 
 * Twitter: [@onetruecathal](https://twitter.com/onetruecathal)
 * Gittip (Support more Free/Libre Biotech): [onetruecathal](https://www.gittip.com/onetruecathal/) [![gittip](https://img.shields.io/gittip/onetruecathal.svg)](https://www.gittip.com/onetruecathal/)
-* Bitcoin donations: 
+* Bitcoin donations: 17dVTgzuRLvvX9vCcxSjzUhViqxA94mU6n
 * [Dremelfuges for Purchase (as ornaments)](http://www.shapeways.com/model/77306/dremelfuge-classic.html?materialId=6)
 * [Other Nice Stuff For Purchase](http://www.shapeways.com/designer/onetruecathal)
 
